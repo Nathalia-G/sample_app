@@ -223,7 +223,7 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   listen (~> 3.3)
   pg
-  puma (~> 5.0)
+  puma
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.3)
   rails_12factor
